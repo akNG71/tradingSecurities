@@ -1,0 +1,216 @@
+#+title: Notes
+#+STARTUP: inlineimages
+#+INFOJS_OPT: view:info toc:nil
+
+* Core concepts
+** Fundamental Investing
++ Business fundamentals
++ Competitive Advantage
++ Ratios:
+  + P/E - Price/Earnings
+  + P/B - Price/Book Value
+  + and other ratios...
+
+** Technical Analysis
++ Supply & Demand
++ Market Sentiments:
+  + Trends
+  + Charts
++ All about recognizing indicators and patterns.
+
+Use fundamentals to narrow choices (Stock screener) and then use technical to determine if now is the optimum time to buy... or sell.
+** Breakouts and Retracement
++ Disruption is a breakout:
+  + New uptrend
+  + New downtrend
+  + False breakout - can be related to position squaring by big players (adjusting their holdings)
++ Retracement (Pullback)
+  + Minor move going against the trend
+  + Big player repositioning can be a cause
+  + Traders think current move has gone too far(course correct)
+  + Can turn out to be actual trend reversals
+** Advance/Decline Ratio (A/D)
+compares the number of stocks that closed higher against the number of stocks that closed lower than their previous day's closing prices.
+*Bullish 1.0+*
+** Market sentiment (Volume)
++ High volume is confirmation of a price move
++ Sometimes volume can lead price...something is coming
+** Indicators (Technical tools)
++ based on maths/data
++ focused on trends
++ eliminate emotion
++ Not perfect
++ help distinguish between *Noise* and *event*
+
+*** What do indicators identify?
++ A trend is beginning (Moving Average Crossover)
++ A trend is stronger or weak (momentum)
++ A trend is retracing but will likely resume (Relative Strength Index)
++ A trend is ending an may reverse (Pattern Breakout, Momentum, Crossover)
++ A securities price is in a trading range (ATR)
+
+Three broad signal types:
++ Crossovers
++ meeting a range limit
++ convergence/divergence
+* Price Bars, Foundation of Technical Analysis
+** Price Bars
++ OHLC Bar
+
+  #+NAME: fig: OHLC
+[[./img/ohlc_bar.png]]
+
++ Candlestick
+
+** Classic Trend Formation With Price Bar Series
+*** Uptrend (Higher Highs)
++ High today is higher than yesterday or high of past few days.
++ Additional confirmation if lows are also higher.
+*** Downtrend (Lower Lows)
++ Low today is lower than yesterday or low of past few days.
++ Additional confirmation if Highs are also lower.
+
+  Rarely that perfect,
+  *Key*: Wait for trend to develop
+** Spikes
+Question
++ Is it a True reversal? - something really happened
++ Is it Temporary? - Panic on a rumour.
+** Trading Range Indicators & Confirmations
+*** Open-Close Position (4 combinations)
++ Expanding Range - Higher Closes: Buyers think price is going higher.
++ Expanding Range - Lower Closes: Sellers are anxious and want to unload the security.
++ Contracting Range - Higher Closes: In all range contractions investors feel uneasy about the direction security has been trending. Higher close can offset some of the negative sentiment of the contracting range.
++ Contracting Range - Lower Closes: Double negative for the existing trend, Traders selling at lower close maybe just to unload the security
+* Gaps: Big Trading Opportunity
+** Common Gap
++ Can occur in trending and non-trending prices.
++ doesn't change the trend or start a new trend.
++ simple noise. Nothing going on.
++ Occurs when trading volume low. Check opening volume levels.
++ Not significant.
++ If volume is high then may be a real significant Uncommon gap.
+** Uncommon Gap
+Significant event is occurring that may impact the price trend and provide a trading opportunity.
++ Breakaway gaps
++ Runaway gaps
++ Exhaustion gaps
++ Island reversals
+* Candlestick
+#+CAPTION: Candlestick bar
+#+NAME: fig: candlestick
+[[./img/candle.png]]
+
+** Doji
+#+CAPTION: Doji
+#+NAME: fig: doji
+[[./img/doji.png]]
+
++ Transitional indicator
++ little or no body
++ shows indecisiveness in the market.
++ gains meaning based on the bars preceding it - may signal a transition
++ After a uptrend - end of their bullish enthusiasm
++ After a downtrend - becoming enthused about the stock and buying
++ Stronger the previous trend...more likely the doji is correct.
+*** Gravestone doji
++ Open and close at/near bottom.
++ Buyers are trying to drive up the price but didn't succeed.
++ preceding bars are in an uptrend...sellers are emerging
++ preceding bars are in an downtrend... buyers are emerging.
+
+  #+CAPTION: gravestone doji and dragonfly doji
+  #+NAME: fig: gravestone_dragonfly
+[[./img/doji_1.png]]
+
+*** Dragonfly doji
++ Open, high, and close were the same (see [[file:img/doji_1.png][fig]]).
++ sellers trying to drive price down and establish a new low but didn't succeed.
++ Interpretation: Always need to look at bars preceding a Doji:
+  + Preceding bars are in downtrend.. then buyers are emerging, and downtrend may be ending.
+  + Preceding bars are in uptrend.. then sellers are emerging, preventing buyers from moving the price higher.
+
+
+** Shaven Top
++ Open is at the High and all downhill from there (Double Bearish)
+  - Down plus no new buying occurred after the open
++ Close is at the High (Bullish)
+*** Hammer (Green candle)
+Hammer is a *bullish reversal pattern* that forms during a *downtrend*. It signals that, despite selling pressure during the trading period, buyers were able to push the prices back up to close near the open. The long lower shadow of the Hammer indicates a /rejection of lower prices/ and a /potential shift in power from sellers to buyers/. For instance, if a Hammer appears after a prolonged downtrend in the price of a stock, it suggests that the downtrend may be losing momentum and a reversal to the upside could be imminent
++ Established downtrend
++ Marks the end of a downtrend
++ A Hammer typically has a lower shadow that is at least twice the length of the real body, emphasizing the rejection of lower prices.
++ Sellers able to create a new low but buying overcame it and created a higher close.
+*** Hanging Man (Red candle)
++ Established uptrend
++ Marks the end of an uptrend...time to sell at a profit.
++ Bulls unable to keeps bears from making a new low and from keeping the close below the open.
+** Shaven Bottom
++ Open at the low, buyers dominated (Bullish)
++ Close is at the high, sellers dominated (Bearish)
+*** Shooting Star
+The Shooting Star, on the other hand, is a *bearish reversal pattern* that occurs after an *uptrend*. It indicates that buyers initially continued to push the price higher, but by the close, sellers had taken control and driven the price down towards the open. The long upper shadow shows that the /market rejected higher prices/ and that a /change from a buyer's to a seller's market may be on the horizon/. For example, if a Shooting Star forms following a steady rise in the price of an asset, it warns of a potential peak and an upcoming decline.
++ Small real body and long upper shadow.
++ A Shooting Star features an upper shadow that is at least twice the length of the real body, highlighting the rejection of higher prices.
++ Implies failure of the trend...failure to close near the high.
+
+** Really long missing shadows
+Shadow is as long or longer than the real body
++ Trader are indicating a sentiment extreme
++ May or may not follow through into the next day so can be tricky.
++ Again...judge relative to preceding bars
+
+*** Long Upper Shadow (High of day well above open & close)
++ Price series in an Uptrend, long upper shadow show failure to close at higher high...may signal uptrend is over
++ Prices series in a downtrend, long upper shadows shows some buyers are buying at higher levels...may signal downtrend is over.
+
+[[./img/long_shadows.png]]
+
+*** Long lower shadow (low of day well below open & close)
++ Uptrend - traders not willing to buy at higher levels right up to the close...may signal uptrend is decelerating or ending.
++ Downtrend - failure to close at the low...may signal downtrend is weakening or over.
+** Harami (Pregnant in Japanese)
+
+[[./img/harami.png]]
+
++ Small real body comes after a bigger body one
+  - Green followed by red (Bearish)
+  - Red followed by green (Bullish)
++ indicates a change in sentiments is coming.
++ The smaller the real body, the more powerful indication that a reversal is coming.
+** Engulfing candlestick
+
+[[./img/engulfing.png]]
+
+
++ Signals reversal of a trend.
++ 2nd bar key (wait for it)
+  - engulfs (Wider range than the day before)
+  - Higher open - lower close (Bearish)
+  - Lower Open - Higher close (Bullish)
+** Window Candlestick Patterns
+*** Rising Window
++ Gap-Up
++ 3rd day in pattern does not go down to "fill the gap"
++ Upward trend continues
+
+[[./img/window.png]]
+
+*** Falling Window
++ Gap-Down
++ 3rd day in pattern does not go up to "fill the gap"
++ Downward trend continues
+** Three Soldier and Crow Patterns
+*** Three Soldiers
++ Three long green bars
++ Consistently all in a row
++ Continuation of the uptrend
++ Stronger indicator: Top wick short, close at or near high
+
+[[./img/threeSoldiersAndCrows.png]]
+
+*** Three Crows
++ Three long red bars
++ Consistently all in a row
++ Continuation of the downtrend
++ Stronger indicator: Bottom wick short, close at or near high
