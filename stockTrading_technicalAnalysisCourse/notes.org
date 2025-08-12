@@ -214,3 +214,73 @@ Shadow is as long or longer than the real body
 + Consistently all in a row
 + Continuation of the downtrend
 + Stronger indicator: Bottom wick short, close at or near high
+* Trend lines & Channels
+As the name implies, trend lines are levels used in technical analysis that can be drawn along a trend to represent either support or resistance, depending on the direction of the trend.
+Think of them as the /diagonal equivalent of horizontal support and resistance/.
+
+*3 Keys to Drawing Trend Lines Effectively*
+
+There are three very important keys to drawing effective trend lines.
+
++ The higher time frames will always produce the most reliable trend lines, so start there and work your way down
++ Most trend lines you come across will have some overlap from the high or low of a candle, but what’s important is /getting the most touches possible without cutting through the body of a candle/
++ _Never try to force a trend line to fit_ – if it doesn’t fit the chart then it isn’t valid and is therefore not worth having on your chart
+
+** Support line
+Lowest price in the current trading range - /supports the price from going lower/
+** Resistance Line
+Highest price in the current trading range - /Resists the price from going higher/
+
+** Broken trend line
+Once a trend line is broken... The trend is over
++ You will be very well served following this rule.
++ Takes emotion and hope out of it.
+
+However, False breaks do happen
+
++ *Support line break*
+  may be just _temporary_ profit taking
+  if close is below the trend line may be OK to hang in there
+  *Strategy*:
+  + Adjust Stop-Loss order to lock in profits
+  + Adjust the total money committed to the trade.
+    - sell some to reduce risk and lock in some profit
+    - sell all later, on a more definite sell signal.
+
++ *Resistance line Break*
+  Buyers have broken through
+  *Strategy*:
+  + Wait for 2nd or 3rd touch to buy into new uptrend
+  + Sell short at #2 or #3 of the resistance line
+  + Close your short position at resistance line breakout
+
+*** 1-2-3 Rule
+
+#+CAPTION: 1-2-3 Rule
+[[./img/1-2-3-rule.png]]
+
+The 123 reversal chart pattern is a /three-swing price formation/ that indicates a potential reversal in trend. It is formed by three price swings or waves with three swing points, which is where the name of the pattern comes from.
+There is nothing special about the chart pattern, apart from the fact that the price swing is no longer making the _expected higher high (in an uptrend)_ or _lower low (in a downtrend)_.
+However, the change in price structure can help predict a potential reversal.
++ 1 - at support line broken
++ 2 - Test of higher highs
++ 3 - Previous significant low
+  - Broken
+  - Confirmation
+
+*** Filter Strategy With Trend lines
+A filter is simply a modification of any trading indicator - Set a /pre-determined rule/ on action to take when certain conditions are met
+- With trend line breakage can modify:
+  - Amount (%) of the break, before taking action
+  - Duration (time) of the break, before taking action
+
+Example: Filter Strategy
+
+*Support Line Exit Rule*:
+
+Sell as soon as possible after low falls below the support line(trend broken)
++ Amount
+  - Price range has to break the support line by 10%, then I'll sell
+  - Close has to break the support line by 5%, then I'll sell
++ Duration
+  - I'll allow one full break of the support line but not two
