@@ -284,3 +284,64 @@ Sell as soon as possible after low falls below the support line(trend broken)
   - Close has to break the support line by 5%, then I'll sell
 + Duration
   - I'll allow one full break of the support line but not two
+* Chart pattern recognition
+
+Idea is pattern that indicated something in the past will do so again in the future. Similar situations create repeatable pattern we can watch for and trade around.
+
+Pattern lines follow either the highs or lows.
+
+Pattern type organized whether they forecast a /Continuation or Reversal/ of the current price move.
+
+Pattern take time to develop
+Plus, you can confirm the Chart pattern with:
+- Other indicators - ex, moving average
+- Trading volume changes - higher volume when a pattern reaches completion as other traders recognize the pattern.
+
+** Continuation patterns
+In an established trend there may be a "pause" in buying and selling... trend is losing steam
+When you see a  Continuation pattern that is indicating that the trend will accelerate again after the pause.
+
+Continuation Patterns...original trend likely to continue
+*** Triangles
++ Ascending Triangle
+  [[./img/ascending-triangle-pattern.png]]
+
++ Descending Triangle
+  [[./img/descending-triangle-pattern.png]]
+*** Flag Patterns
+A flag pattern indicates a brief pause in the price movement of an asset, followed by a continuation of the previous trend. It consists of a sharp price movement (the flagpole) followed by a consolidation phase (the flag) before a breakout in the same direction as the initial movement.
+
+[[./img/flag.png]]
+
+*** Rectangles
+Rectangle could be part of a trend (Channel)
+Rectangle pattern occurs when the price of a security trades between two parallel horizontal lines, representing support and resistance levels. This pattern indicates a period of consolidation where buyers and sellers are in equilibrium.
+
+A breakout from pattern is considered more reliable if accompanied by high trading volume, confirming the strength of the move.
+[[./img/rectangle.png]]
+
+*** Dead Cat Bounce
+A dead cat bounce pattern refers to a temporary recovery in the price of a declining asset, often followed by a continuation of the downward trend. It is characterized by a brief rally that can mislead investors into thinking the asset has stabilized, but it typically resumes its decline shortly after
+[[./img/dead_cat_bounce.png]]
+
+*** Cup with handle
+The cup and handle pattern is a bullish continuation chart pattern that resembles a cup with a rounded bottom and a handle that slopes downward. It indicates a potential buying opportunity, typically forming over several weeks to months, and is used by traders to predict upward price movement after the handle completes.
+
+Upward Trend (Trading volume medium) -> Cup (Trading volume low) -> handle + back to rising pattern (Trading volume higher)
+Longer "U" shaped cup more predictable than a "V" shape cup. Cup should not be overly deep (shouldn't go below SMA)
+
+[[./img/cup_with_handle.png]]
+
+** Reversal Patterns
+*** Double bottom chart pattern (W)
++ looks like a W
++ retest of a low
++ predicts a price Breakout
++ *Formation*:
+  - /First Bottom/: The price of a stock declines to a low point, forming the first bottom of the "W" shape.
+  - /First Rebound/: The price then rises from the first bottom, creating a peak.
+  - /Second Bottom/: The price falls again, but this time it retests the same or similar low point as the first bottom, creating the second bottom of the "W".
+  - /Breakout/: The price then breaks above the resistance level formed by the peak between the two bottoms, confirming the double bottom pattern and signalling a potential bullish reversal.
++ *Key Considerations*:
+  - /Trend Context/: Double bottoms are more reliable when they form after a significant downtrend.
+  - /Volume Confirmation/: Volume is crucial for validating the pattern's strength

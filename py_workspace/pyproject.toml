@@ -1,0 +1,41 @@
+[project]
+name = "tradingsecurities"
+version = "0.1.0"
+description = "Trading Securities Python work space"
+authors = [
+    {name = "Arun Khattri",email = "akNG71@gmail.com"}
+]
+license = {text = "GPLv3_or_later"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas (>=2.3.1,<3.0.0)",
+    "numpy (>=2.3.2,<3.0.0)",
+    "matplotlib (>=3.10.5,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "pyarrow (>=21.0.0,<22.0.0)",
+    "yfinance (>=0.2.65,<0.3.0)",
+    "ta-lib (>=0.6.5,<0.7.0)",
+    "mplfinance (>=0.12.10b0,<0.13.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+pylint = "^3.3.8"
+isort = "^6.0.1"
+nose = "^1.3.7"
+flake8 = "^7.3.0"
+ipython = "^9.4.0"
+pytest = "^8.4.1"
+python-decouple = "^3.8"
+rope = "^1.14.0"
+python-lsp-isort = "^0.2.1"
+python-lsp-black = "^2.0.0"
+pylsp-rope = "^0.1.17"
+basedpyright = "^1.31.1"
+
