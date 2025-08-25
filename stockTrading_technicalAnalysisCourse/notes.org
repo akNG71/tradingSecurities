@@ -334,14 +334,34 @@ Longer "U" shaped cup more predictable than a "V" shape cup. Cup should not be o
 
 ** Reversal Patterns
 *** Double bottom chart pattern (W)
+A double bottom pattern is a bullish reversal chart pattern that occurs after a downtrend, characterized by two distinct lows at approximately the same price level, separated by a peak. This pattern suggests that the downward momentum is weakening and indicates a potential upward trend when the price breaks above the resistance level known as the neckline
 + looks like a W
 + retest of a low
 + predicts a price Breakout
+
+  [[./img/double_bottom.jpg]]
+
 + *Formation*:
   - /First Bottom/: The price of a stock declines to a low point, forming the first bottom of the "W" shape.
   - /First Rebound/: The price then rises from the first bottom, creating a peak.
   - /Second Bottom/: The price falls again, but this time it retests the same or similar low point as the first bottom, creating the second bottom of the "W".
-  - /Breakout/: The price then breaks above the resistance level formed by the peak between the two bottoms, confirming the double bottom pattern and signalling a potential bullish reversal.
+  - /Breakout/: The price then breaks above the resistance level (neckline) formed by the peak between the two bottoms, confirming the double bottom pattern and signalling a potential bullish reversal.
 + *Key Considerations*:
   - /Trend Context/: Double bottoms are more reliable when they form after a significant downtrend.
   - /Volume Confirmation/: Volume is crucial for validating the pattern's strength
+*** Double Top chart Pattern (M)
+A double top pattern is a bearish reversal chart pattern that occurs after an uptrend, characterized by two peaks at roughly the same price level, separated by a trough. It signals a potential shift from an upward trend to a downward trend, often prompting traders to sell or short the asset when the price falls below the support level known as the neckline
+
+[[./img/double_top.jpg]]
+
+
++ Conditions to be met
+  1. Minimum 10 days between the lows, could be 2-3 months
+  2. Variation between the Highs no more than 4%
+  3. Centre down move min 10% from the Higher of the two tops
+  4. Price must move below the confirmation line (neckline)
+*** Head & Shoulders (Triple-Top)
+It typically appears after a bullish trend and suggests a shift to a bearish trend.
+It consists of three peaks: a higher peak (the head) between two lower peaks (the shoulders), with a neckline drawn across the lowest points of the troughs.
+
+[[./img/head_and_shoulders.jpg]]
